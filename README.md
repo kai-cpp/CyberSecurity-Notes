@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
   <img src="https://img.shields.io/badge/Topic-Infosec%20%7C%20Pentest-red.svg" alt="Topic" />
   <img src="https://img.shields.io/badge/OS-BlackArch%20%7C%20Linux-1793D1?logo=arch-linux" alt="OS" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License" />
 </p>
 
 Welcome to the ultimate repository of comprehensive cybersecurity notes, vulnerability write-ups, cheat sheets, and practical pentesting methodologies. This database is structured to cover various attack vectors, misconfigurations, and security best practices.
@@ -44,6 +45,11 @@ Contributions, bug reports, and new vulnerability notes are welcome!
 3. Commit your Changes using signed GPG keys (`git commit -m 'Add some AmazingNotes'`)
 4. Push to the Branch (`git push origin feature/AmazingNotes`)
 5. Open a Pull Request
+
+---
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 *Disclaimer: This repository is created strictly for educational purposes and authorized penetration testing. Use responsibly.*
