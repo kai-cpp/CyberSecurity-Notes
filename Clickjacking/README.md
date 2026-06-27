@@ -1,6 +1,6 @@
 # Clickjacking
 
-> Clickjacking is a type of web security vulnerability where a malicious website tricks a user into clicking on something different from what the user perceives, potentially causing the user to perform unintended actions without their knowledge or consent. Users are tricked into performing all sorts of unintended actions as such as typing in the password, clicking on ‘Delete my account' button, liking a post, deleting a post, commenting on a blog. In other words all the actions that a normal user can do on a legitimate website can be done using clickjacking
+> Clickjacking is a type of web security vulnerability where a malicious website tricks a user into clicking on something different from what the user perceives, potentially causing the user to perform unintended actions without their knowledge or consent. Users are tricked into performing all sorts of unintended actions as such as typing in the password, clicking on ‘Delete my account' button, liking a post, deleting a post, commenting on a blog. In other words all the actions that a normal user can do on a legitimate website can be done using clickjacking.
 
 ## Summary
 
