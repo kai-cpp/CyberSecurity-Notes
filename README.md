@@ -8,13 +8,16 @@
 
 Welcome to the ultimate repository of comprehensive cybersecurity notes, vulnerability write-ups, cheat sheets, and practical pentesting methodologies. This database is structured to cover various attack vectors, misconfigurations, and security best practices.
 
+> 📚 **Credits & Open Source Spirit:**  
+> This knowledge base is curated and compiled from various open-source intelligence (OSINT) resources, security blogs, whitepapers, and public GitHub repositories. **Massive respect and full credits to all the original authors, researchers, and creators** within the InfoSec community whose work made this compilation possible. Keep sharing! 🤝
+
 ---
 
 ## 🗂️ Knowledge Base Index
 
 ### 🌐 Web Application Security & Injection Vulnerabilities
 *   **Injection Attacks:** [Command Injection](./Command%20Injection), [CRLF Injection](./CRLF%20Injection), [CSS Injection](./CSS%20Injection), [CSV Injection](./CSV%20Injection), [GraphQL Injection](./GraphQL%20Injection), [LDAP Injection](./LDAP%20Injection), [LaTeX Injection](./LaTeX%20Injection), [NoSQL Injection](./NoSQL%20Injection), [Prompt Injection](./Prompt%20Injection), [XPATH Injection](./XPATH%20Injection), [XSS Injection](./XSS%20Injection), [XXE Injection](./XXE%20Injection)
-*   **Client-Side & Logic Flaws:** [Account Takeover](./Account%20Takeover), [Business Logic Errors](./Business%20Logic%20Errors), [Clickjacking](./Clickjacking), [CORS Misconfiguration](./CORS%20Configuration), [Cross-Site Request Forgery (CSRF)](./Cross-Site%20Request%20Forgery), [DOM Clobbering](./DOM%20Clobbering)
+*   **Client-Side & Logic Flaws:** [Account Takeover](./Account%20Takeover), [Business Logic Errors](./Business%20Logic%20Errors), [Clickjacking](./Clickjacking), [CORS Misconfiguration](./CORS%20Misconfiguration), [Cross-Site Request Forgery (CSRF)](./Cross-Site%20Request%20Forgery), [DOM Clobbering](./DOM%20Clobbering)
 *   **Auth & Session Management:** [JSON Web Token (JWT)](./JSON%20Web%20Token), [OAuth Misconfiguration](./OAuth%20Misconfiguration), [Insecure Deserialization](./Insecure%20Deserialization)
 
 ### 📂 Server-Side & Infrastructure Security
@@ -23,14 +26,14 @@ Welcome to the ultimate repository of comprehensive cybersecurity notes, vulnera
 *   **API & Information Leaks:** [API Key Leaks](./API%20Key%20Leaks), [HTTP Parameter Pollution](./HTTP%20Parameter%20Pollution), [Hidden Parameters](./Hidden%20Parameters), [ORM Leak](./ORM%20Leak)
 
 ### 🛠️ Advanced Concepts & Architecture
-*   **Flaws & Configurations:** [Brute Force Rate Limit](./Brute%20Force%20Rate%20Limit), [CVE Exploits](./CVE%20Exploits), [Dependency Confusion](./Dependency%20Confusion), [Insecure Direct Object References (IDOR)](./Insecure%20Direct%20Object%20References), [Insecure Management Interface](./Insecure%20Management%20Interface), [Insecure Randomness](./Insecure%20Randomness), [Insecure Source Code Management](./Insecure%20Source%20Code%20Management), [Java RMI](./Java%20RMI), [Mass Assignment](./Mass%20Assignment), [Open Redirect](./Open%20Redirect), [Race Condition](./Race%20Condition), [Type Juggling](./Type%20Juggling), [Web Cache Deception](./Web%20Cache%20Deception), [Web Sockets](./Web%20Sockets), [XS-Leak](./XS-Leak), [XSLT Injection](./XSLT%20Injection)
+*   **Flaws & Configurations:** [Brute Force Rate Limit](./Brute%20Force%20Rate%20Limit), [CVE Exploits](./CVE%20Exploites), [Dependency Confusion](./Dependency%20Confusion), [Insecure Direct Object References (IDOR)](./Insecure%20Direct%20Object%20References), [Insecure Management Interface](./Insecure%20Management%20Interface), [Insecure Randomness](./Insecure%20Randomness), [Insecure Source Code Management](./Insecure%20Source%20Code%20Management), [Java RMI](./Java%20RMI), [Mass Assignment](./Mass%20Assignment), [Open Redirect](./Open%20Redirect), [Race Condition](./Race%20Condition), [Type Juggling](./Type%20Juggling), [Web Cache Deception](./Web%20Cache%20Deception), [Web Sockets](./Web%20Sockets), [XS-Leak](./XS-Leak), [XSLT Injection](./XSLT%20Injection)
 
 ---
 
 ## 📈 Tools & Ecosystem
 This repository heavily interacts with scripts and security toolkits running on:
 *   **Environment:** Arch Linux / BlackArch 🐧
-*   **Core Scripts:** Written mostly in Python (99%+) 🐍 and automated via Bash bash scripts.
+*   **Core Scripts:** Written mostly in Python (99%+) 🐍 and automated via Bash scripts.
 
 ---
 
@@ -43,4 +46,4 @@ Contributions, bug reports, and new vulnerability notes are welcome!
 5. Open a Pull Request
 
 ---
-*Disclaimer: This repository is created strictly for educational purposes and authorized penetration testing. Use responsibility.*
+*Disclaimer: This repository is created strictly for educational purposes and authorized penetration testing. Use responsibly.*
